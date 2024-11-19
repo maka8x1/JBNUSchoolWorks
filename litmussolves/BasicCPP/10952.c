@@ -27,7 +27,7 @@ int main() {
    }
 
    printf("\n");
-   //free(&gr);
+   free(gr);
 
    return 0;
 }

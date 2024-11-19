@@ -46,8 +46,7 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp",
-        "*.cpp?vscode-lang=ko-kr": "c",
-        "cstring": "c"
+        "*.cpp?vscode-lang=ko-kr": "c"
     },
     "C_Cpp.default.compilerPath": "/usr/bin/gcc"
 }
