@@ -48,7 +48,8 @@
         "typeinfo": "cpp",
         "*.cpp?vscode-lang=ko-kr": "c",
         "cstring": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "sstream": "cpp"
     },
     "C_Cpp.default.compilerPath": "/usr/bin/gcc"
 }
